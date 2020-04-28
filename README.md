@@ -1,15 +1,7 @@
-# react_project
+# My React Project
 
-My own private react project. 
+The application is a simple purchase application where a customer can add items to a cart.
 
-Function: 
-A simple cart that you can add or remove items from.
-A counter will keep track of the number of items chosen. 
-
-
-
-
-
-
-
-
+The foundation is based on the following youtube tutorial  https://www.youtube.com/watch?v=Ke90Tje7VS0&t=6174s
+## But a lot of features has been added that are not included in the tutorial
+## One example is the dropdown list  
